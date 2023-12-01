@@ -4,7 +4,7 @@ import Connect from "../components/section/connect/Connect";
 import Sms from "../components/section/sms/Sms";
 import Feature from "../components/section/feature/Feature";
 import Info from "../components/section/info/Info";
-import News from "../components/section/news/News";
+import Footer from "../components/section/footer/Footer";
 
 const HomeV1 = () => {
     return (
@@ -15,7 +15,7 @@ const HomeV1 = () => {
             <Sms />
             <Feature />
             <Info />
-            <News />
+            <Footer />
         </div>
     );
 }

@@ -30,7 +30,7 @@ const Feature = () => {
                         <SetFeature title='Calls and SMS Credit' detail='International rates are almost local' image={Symbol4} />
                     </div>
                     <div style={{ width: '20%', height: '100%' }}>
-                        <img src={SignalImage} alt='signalImage' style={{ height: '60%', width: '90%', marginLeft: '5%', marginRight: '5%' }} />
+                        <img src={SignalImage} alt='signalImage' style={{ height: '50%', width: '90%', marginLeft: '5%', marginRight: '5%', marginTop: '5%' }} />
                     </div>
                     <div style={{ width: '40%', height: '100%' }}>
                         <SetFeatureRight title='Free Coins Center' detail='Free USA mobile number' image={Symbol5} />
