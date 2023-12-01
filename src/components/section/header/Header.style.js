@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const HeaderStyleWrapper = styled.div`
-  position: fixed;
+  position: relative;
   left: 0;
   top: 0;
   width: 100%;
