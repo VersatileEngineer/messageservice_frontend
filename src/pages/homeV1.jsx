@@ -1,10 +1,9 @@
+import Header from "../components/section/header/Header";
 
 
 const HomeV1 = () => {
     return (
-        <div>
-            aaa
-        </div>
+        <Header />
     );
 }
 
